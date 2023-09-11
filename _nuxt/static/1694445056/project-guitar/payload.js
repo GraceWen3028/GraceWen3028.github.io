@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/project-guitar", {data:[{}],fetch:{},mutations:void 0});

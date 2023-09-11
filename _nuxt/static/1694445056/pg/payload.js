@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pg", {data:[{}],fetch:{},mutations:void 0});
