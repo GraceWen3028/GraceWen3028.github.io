@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project-zuri-chat", {data:[{}],fetch:{},mutations:void 0});

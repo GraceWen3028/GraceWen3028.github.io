@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project_Afis", {data:[{}],fetch:{},mutations:void 0});

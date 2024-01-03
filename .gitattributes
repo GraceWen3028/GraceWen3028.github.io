@@ -1,2 +1,0 @@
-project_guitar filter=lfs diff=lfs merge=lfs -text
-project-guitar/project_guitar filter=lfs diff=lfs merge=lfs -text
